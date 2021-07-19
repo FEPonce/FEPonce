@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @FEPonce
-- 🌱 I’m currently learning ...
 - 📫 How to reach me 📧FelixE.Ponce@Gmail.com
 
 <!---
